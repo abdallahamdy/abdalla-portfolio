@@ -81,12 +81,12 @@ header nav ul li a:hover {
     text-shadow: none;
 }
 
-.about-me {
+#about-me {
     width: 50%;
     margin-bottom: 50px;
 }
 
-.my-projects {
+#my-projects {
     width: 50%;
     margin-bottom: 50px;
 }
