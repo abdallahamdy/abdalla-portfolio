@@ -91,6 +91,11 @@ header nav ul li a:hover {
     margin-bottom: 50px;
 }
 
+#contact-me {
+    width: 50%;
+    margin-bottom: 50px;
+}
+
 .section-title {
     text-align: center;
     color: white;
@@ -103,3 +108,25 @@ header nav ul li a:hover {
     color: white;
     font-size: 18px;
 }
+
+#my-projects img {
+    width: 200px;
+}
+
+#projects-icons {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#projects-icons a {
+    text-decoration: none;
+    color: white;
+}
+
+#projects-icons img:hover {
+    width: 400px;
+}
+
+
