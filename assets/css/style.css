@@ -128,6 +128,10 @@ header nav ul li a:hover {
     text-align: center;
     color: black;
     font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 #my-projects img {
@@ -199,10 +203,19 @@ header nav ul li a:hover {
 
     #contact-me {
         width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section-paragraph {
+        text-align: center;
+        width: 90%;
+    
     }
 
     .section-paragraph p {
         font-size: 48px;
+        text-align: center;
     }
 
     #projects-icons {
@@ -214,13 +227,5 @@ header nav ul li a:hover {
         width: 100%;
     }
 
-
-}
-
-@media screen and (max-width: 768px){
-
-}
- 
-@media screen and (max-width: 575px) {
 
 }
