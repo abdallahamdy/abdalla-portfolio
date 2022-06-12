@@ -8,7 +8,7 @@ A portfolio website made by Abdalla Hamdy.
 * HTML
 
 ## Website:
-https://abdallahamdy.github.io/abdalla-portfolio/e
+https://abdallahamdy.github.io/abdalla-portfolio/
 
-
+## Screenshot:
 ![Alt text](./assets/images/portfolio-icon.png?raw=true "Portfolio Icon")
